@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+pillow
+customtkinter
+# optional, only if USE_FIREBASE = True
+firebase-admin
